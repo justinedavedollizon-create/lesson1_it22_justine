@@ -2,3 +2,5 @@
 #added by mike
 #MORADO
 #Pacturan
+#BATAN
+#ABAO
